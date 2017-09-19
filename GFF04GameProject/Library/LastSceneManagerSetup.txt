@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/kataoka/scene/RobotTest.unity
+- path: Assets/ho/Scenes/PlayerTest.unity
   isLoaded: 1
   isActive: 1
